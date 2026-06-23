@@ -1,5 +1,8 @@
 # Build Your Own `sort` Tool
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Java 21](https://img.shields.io/badge/Java-21-orange.svg)](https://openjdk.org/projects/jdk/21/)
+
 A Java implementation of the Unix `sort` command, built for the
 [Coding Challenges "Build Your Own sort tool"](https://codingchallenges.fyi/challenges/challenge-sort)
 challenge. It reads lines from a file (or standard input), sorts them lexicographically, and
