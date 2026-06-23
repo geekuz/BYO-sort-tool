@@ -1,5 +1,6 @@
 # Build Your Own `sort` Tool
 
+[![CI](https://github.com/geekuz/BYO-sort-tool/actions/workflows/ci.yml/badge.svg)](https://github.com/geekuz/BYO-sort-tool/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Java 21](https://img.shields.io/badge/Java-21-orange.svg)](https://openjdk.org/projects/jdk/21/)
 
